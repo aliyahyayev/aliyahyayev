@@ -2,20 +2,12 @@
 
 **.NET Backend Developer**
 
-I am a backend developer focused on building scalable and clean web applications using .NET technologies.  
+Hello!! I am a backend developer focused on building scalable and clean web applications using .NET technologies.  
 Currently, I am improving my skills in C#, ASP.NET Core, and SQL by working on real-world projects.
 
 ---
 
-## 🚀 About me
-
-- 🌱 Currently learning: Backend Technologies 
-- 💡 Interests: Backend development, clean architecture, system design basics  
-- 📍 Location: Azerbaijan  
-
----
-
-## 🛠️ Tech stack
+## Tech stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -30,11 +22,3 @@ Currently, I am improving my skills in C#, ASP.NET Core, and SQL by working on r
 - ASP.NET Core Web API projects  
 - Clean Architecture principles  
 - Database design with SQL Server  
-
----
-
-
-## 🌐 Connect with me
-
-- LinkedIn: www.linkedin.com/in/ali-yahyayev-15aa102b1  
-- Email: eliyahyayev04@gmail.com  
