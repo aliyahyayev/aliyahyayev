@@ -1,9 +1,21 @@
-# Ali Yahyayev
+<h1 align="center">👋 Hi, I'm Ali!</h1>
 
-**.NET Backend Developer**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF7A6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Backend+Developer+from+Azerbaijan"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-Hello!! I am a backend developer focused on building scalable and clean web applications using .NET technologies.  
+<p align="center">
+</p>
+
+<p align="center">
+I am a backend developer focused on building scalable and clean web applications using .NET technologies.  
 Currently, I am improving my skills in C#, ASP.NET Core, and SQL by working on real-world projects.
+</p>
 
 ---
 
